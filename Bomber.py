@@ -8,7 +8,7 @@ import requests
 import sys
 import os
 import shutil
-from more.data import *
+from -1.version.data import *
 
 #Get Rows and Columns of Screen
 columns = shutil.get_terminal_size().columns
